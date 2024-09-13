@@ -1,0 +1,86 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 3,
+	"title": "Medium Violet Red",
+	"description":  "Medium Violet Red color with shades",
+	"settings": {
+		"color": {
+			"duotone": [
+				{
+					"colors": ["#111111", "#ffffff"],
+					"slug": "black-white",
+					"name": "Black white"
+				},
+				{
+					"colors": ["#111111", "#c71585"],
+					"slug": "black-accent",
+					"name": "Black and Accent"
+				},
+				{
+					"colors": ["#111111", "#f38ccd"],
+					"slug": "black-light",
+					"name": "Black and Light"
+				},
+				{
+					"colors": ["#111111", "#730c4d"],
+					"slug": "black-dark",
+					"name": "Black and Dark"
+				},
+				{
+					"colors": [ "#c71585", "#ffffff" ],
+					"name": "Accent White",
+					"slug": "accent-white"
+				},
+				{
+					"colors": [ "#f38ccd", "#ffffff" ],
+					"name": "Light White",
+					"slug": "light-white"
+				},
+				{
+					"colors": [ "#730c4d", "#ffffff" ],
+					"name": "Dark White",
+					"slug": "dark-white"
+				}
+			],
+			"gradients": [
+				{
+					"slug": "soft-dark-to-base",
+					"gradient": "linear-gradient(to bottom, var(--wp--preset--color--dark) 0%, var(--wp--preset--color--base) 100%)",
+					"name": "Vertical soft dark to base"
+				},
+				{
+					"slug": "hard-dark-to-base",
+					"gradient": "linear-gradient(to bottom, var(--wp--preset--color--dark) 50%, var(--wp--preset--color--base) 50%)",
+					"name": "Vertical hard dark to base"
+				}
+			],
+			"palette": [
+				{
+					"color": "#fafafa",
+					"name": "Base",
+					"slug": "base"
+				},
+				{
+					"color": "#0a0a0a",
+					"name": "Contrast",
+					"slug": "contrast"
+				},
+				{
+					"color": "#c71585",
+					"name": "Accent",
+					"slug": "accent"
+				},
+				{
+					"color": "#f38ccd",
+					"name": "Light",
+					"slug": "light"
+				},
+				{
+					"color": "#730c4d",
+					"name": "Dark",
+					"slug": "dark"
+				}
+			]
+		}
+	}
+}

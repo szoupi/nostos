@@ -1,0 +1,24 @@
+{
+  "name": "Nostos",
+  "version": "1.0.0",
+  "description": "== Nostos ==",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-zip": "^5.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/szoupi/Nostos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/szoupi/Nostos/issues"
+  },
+  "homepage": "https://github.com/szoupi/Nostos#readme"
+}

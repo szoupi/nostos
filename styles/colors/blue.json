@@ -1,0 +1,86 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 3,
+	"title": "Blue",
+	"description":  "Blue color with shades",
+	"settings": {
+		"color": {
+			"duotone": [
+				{
+					"colors": ["#111111", "#ffffff"],
+					"slug": "black-white",
+					"name": "Black white"
+				},
+				{
+					"colors": ["#111111", "#0000ff"],
+					"slug": "black-accent",
+					"name": "Black and Accent"
+				},
+				{
+					"colors": ["#111111", "#8080ff"],
+					"slug": "black-light",
+					"name": "Black and Light"
+				},
+				{
+					"colors": ["#111111", "#000080"],
+					"slug": "black-dark",
+					"name": "Black and Dark"
+				},
+				{
+					"colors": [ "#0000ff", "#ffffff" ],
+					"name": "Accent White",
+					"slug": "accent-white"
+				},
+				{
+					"colors": [ "#8080ff", "#ffffff" ],
+					"name": "Light White",
+					"slug": "light-white"
+				},
+				{
+					"colors": [ "#000080", "#ffffff" ],
+					"name": "Dark White",
+					"slug": "dark-white"
+				}
+			],
+			"gradients": [
+				{
+					"slug": "soft-dark-to-base",
+					"gradient": "linear-gradient(to bottom, var(--wp--preset--color--dark) 0%, var(--wp--preset--color--base) 100%)",
+					"name": "Vertical soft dark to base"
+				},
+				{
+					"slug": "hard-dark-to-base",
+					"gradient": "linear-gradient(to bottom, var(--wp--preset--color--dark) 50%, var(--wp--preset--color--base) 50%)",
+					"name": "Vertical hard dark to base"
+				}
+			],
+			"palette": [
+				{
+					"color": "#fafafa",
+					"name": "Base",
+					"slug": "base"
+				},
+				{
+					"color": "#0a0a0a",
+					"name": "Contrast",
+					"slug": "contrast"
+				},
+				{
+					"color": "#0000ff",
+					"name": "Accent",
+					"slug": "accent"
+				},
+				{
+					"color": "#8080ff",
+					"name": "Light",
+					"slug": "light"
+				},
+				{
+					"color": "#000080",
+					"name": "Dark",
+					"slug": "dark"
+				}
+			]
+		}
+	}
+}
