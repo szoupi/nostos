@@ -1,12 +1,12 @@
 == Nostos ==
 
-Contributors: szoupi
-Requires at least: 6.0
+Contributors: szoupidotcom
+Requires at least: 6.4
 Tested up to: 6.6
-Requires PHP: 5.7
+Requires PHP: 7.0
+Stable tag: 1.0.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-
 
 == Description ==
 
@@ -35,5 +35,5 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 
 
-Nostos is based on nostos (https://demos.szoupi.com/nostos/), (C) szoupi, [GPLv2 or later](http://www.gnu.org/licenses/gpl-2.0.html)
+Nostos is based on nostos (https://demos.szoupi.com/wp/nostos/), (C) szoupi, [GPLv2 or later](http://www.gnu.org/licenses/gpl-2.0.html)
 
