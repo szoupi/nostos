@@ -15,7 +15,7 @@ Introducing Nostos, a minimalist lightweight theme designed for those who value 
 
 == Changelog ==
 
-= 1.0.0 =
+= 1.0.1 =
 * Initial release
 
 
