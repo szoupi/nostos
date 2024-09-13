@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: sidebar
- * Slug: litos/sidebar
+ * Slug: nostos/sidebar
  * Categories: hidden
  * Inserter: no
  */
@@ -12,7 +12,7 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"16px"}},"layout":{"type":"flex","orientation":"vertical"}} -->
 <div class="wp-block-group"><!-- wp:heading {"fontSize":"med"} -->
-<h2 class="wp-block-heading has-med-font-size"><?php esc_html_e('About the author', 'litos');?></h2>
+<h2 class="wp-block-heading has-med-font-size"><?php esc_html_e('About the author', 'nostos');?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:post-author-biography {"fontSize":"xs"} /--></div>
@@ -25,7 +25,7 @@
 
 <!-- wp:group {"style":{"spacing":{"blockGap":"16px"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group"><!-- wp:heading {"fontSize":"med"} -->
-<h2 class="wp-block-heading has-med-font-size"><?php esc_html_e('Popular Categories', 'litos');?></h2>
+<h2 class="wp-block-heading has-med-font-size"><?php esc_html_e('Popular Categories', 'nostos');?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:categories {"showHierarchy":true,"showPostCounts":true,"fontSize":"xs"} /--></div>

@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: home
- * Slug: litos/home
+ * Slug: nostos/home
  * Categories: hidden
  * Inserter: no
  */
@@ -11,7 +11,7 @@
 <!-- wp:group {"layout":{"type":"constrained","justifyContent":"center"}} -->
 <div class="wp-block-group"><!-- wp:group {"align":"wide","layout":{"type":"constrained","justifyContent":"left"}} -->
 <div class="wp-block-group alignwide"><!-- wp:heading -->
-<h2 class="wp-block-heading"><?php esc_html_e('My blog (home template)', 'litos');?></h2>
+<h2 class="wp-block-heading"><?php esc_html_e('My blog (home template)', 'nostos');?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:spacer {"width":"0px","style":{"layout":[]}} -->
@@ -19,9 +19,9 @@
 <!-- /wp:spacer --></div>
 <!-- /wp:group -->
 
-<!-- wp:query {"queryId":11,"query":{"perPage":10,"pages":0,"offset":"0","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true},"metadata":{"categories":["posts"],"patternName":"litos/posts-3-col","name":"List of posts, 3 columns"},"align":"wide","layout":{"type":"default"}} -->
+<!-- wp:query {"queryId":11,"query":{"perPage":10,"pages":0,"offset":"0","postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true},"metadata":{"categories":["posts"],"patternName":"nostos/posts-3-col","name":"List of posts, 3 columns"},"align":"wide","layout":{"type":"default"}} -->
 <div class="wp-block-query alignwide"><!-- wp:query-no-results -->
-<!-- wp:pattern {"slug":"litos/hidden-no-results"} /-->
+<!-- wp:pattern {"slug":"nostos/hidden-no-results"} /-->
 <!-- /wp:query-no-results -->
 
 <!-- wp:group {"style":{"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"},"margin":{"top":"0","bottom":"0"}}},"layout":{"type":"default"}} -->
@@ -34,11 +34,11 @@
 <div class="wp-block-group has-xxs-font-size" style="text-transform:uppercase"><!-- wp:post-date {"format":"M j, Y"} /-->
 
 <!-- wp:paragraph {"textColor":"contrast-2"} -->
-<p class="has-contrast-2-color has-text-color"><?php esc_html_e('—', 'litos');?></p>
+<p class="has-contrast-2-color has-text-color"><?php esc_html_e('—', 'nostos');?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"textColor":"contrast-2","fontSize":"small"} -->
-<p class="has-contrast-2-color has-text-color has-small-font-size"><?php esc_html_e('by', 'litos');?></p>
+<p class="has-contrast-2-color has-text-color has-small-font-size"><?php esc_html_e('by', 'nostos');?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:post-author-name {"isLink":true} /-->

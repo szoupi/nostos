@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: post-metatags
- * Slug: litos/post-metatags
+ * Slug: nostos/post-metatags
  * Categories: hidden
  * Inserter: no
  */
@@ -11,11 +11,11 @@
 <div class="wp-block-group has-xs-font-size" style="font-style:normal;font-weight:300"><!-- wp:post-date {"format":"M j, Y","isLink":true} /-->
 
 <!-- wp:paragraph {"textColor":"contrast-2"} -->
-<p class="has-contrast-2-color has-text-color"><?php esc_html_e('—', 'litos');?></p>
+<p class="has-contrast-2-color has-text-color"><?php esc_html_e('—', 'nostos');?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"textColor":"contrast-2","fontSize":"xs"} -->
-<p class="has-contrast-2-color has-text-color has-xs-font-size"><?php esc_html_e('by', 'litos');?></p>
+<p class="has-contrast-2-color has-text-color has-xs-font-size"><?php esc_html_e('by', 'nostos');?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:post-author-name {"isLink":true} /-->

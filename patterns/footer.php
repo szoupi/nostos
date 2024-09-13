@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: footer
- * Slug: litos/footer
+ * Slug: nostos/footer
  * Categories: hidden
  * Inserter: no
  */
@@ -24,7 +24,7 @@
 <!-- wp:column {"width":"30%"} -->
 <div class="wp-block-column" style="flex-basis:30%"><!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"left"}} -->
 <div class="wp-block-group"><!-- wp:paragraph {"align":"left"} -->
-<p class="has-text-align-left"><?php esc_html_e('<a href="#">info@example.com</a>', 'litos');?></p>
+<p class="has-text-align-left"><?php esc_html_e('<a href="#">info@example.com</a>', 'nostos');?></p>
 <!-- /wp:paragraph --></div>
 <!-- /wp:group --></div>
 <!-- /wp:column -->

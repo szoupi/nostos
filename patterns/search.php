@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: search
- * Slug: litos/search
+ * Slug: nostos/search
  * Categories: hidden
  * Inserter: no
  */
@@ -17,7 +17,7 @@
 <div class="wp-block-group alignwide"><!-- wp:query {"queryId":26,"query":{"perPage":10,"pages":0,"offset":0,"postType":"post","order":"desc","orderBy":"date","author":"","search":"","exclude":[],"sticky":"","inherit":true},"metadata":{"categories":["posts"],"patternName":"core/query-small-posts","name":"Search results"}} -->
 <div class="wp-block-query"><!-- wp:query-no-results -->
 <!-- wp:paragraph -->
-<p><?php esc_html_e('No posts were found.', 'litos');?></p>
+<p><?php esc_html_e('No posts were found.', 'nostos');?></p>
 <!-- /wp:paragraph -->
 <!-- /wp:query-no-results -->
 
@@ -39,11 +39,11 @@
 <div class="wp-block-group has-xs-font-size" style="font-style:normal;font-weight:300"><!-- wp:post-date {"format":"M j, Y","isLink":true} /-->
 
 <!-- wp:paragraph {"textColor":"contrast-2"} -->
-<p class="has-contrast-2-color has-text-color"><?php esc_html_e('—', 'litos');?></p>
+<p class="has-contrast-2-color has-text-color"><?php esc_html_e('—', 'nostos');?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"textColor":"contrast-2","fontSize":"small"} -->
-<p class="has-contrast-2-color has-text-color has-small-font-size"><?php esc_html_e('by', 'litos');?></p>
+<p class="has-contrast-2-color has-text-color has-small-font-size"><?php esc_html_e('by', 'nostos');?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:post-author-name {"isLink":true} /-->

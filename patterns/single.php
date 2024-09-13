@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: single
- * Slug: litos/single
+ * Slug: nostos/single
  * Categories: hidden
  * Inserter: no
  */
@@ -31,7 +31,7 @@
 
 <!-- wp:comments {"className":"wp-block-comments-query-loop"} -->
 <div class="wp-block-comments wp-block-comments-query-loop"><!-- wp:heading -->
-<h2 class="wp-block-heading"><?php esc_html_e('Comments', 'litos');?></h2>
+<h2 class="wp-block-heading"><?php esc_html_e('Comments', 'nostos');?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:comments-title {"level":3} /-->
