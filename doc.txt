@@ -1,0 +1,2 @@
+Images for patterns
+<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/art-gallery.webp

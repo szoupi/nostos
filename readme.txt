@@ -45,8 +45,8 @@ Nostos is based on nostos (https://demos.szoupi.com/wp/nostos/), (C) szoupi, [GP
 
 === Images ===
 
-Images for theme screenshot
-Source: https://www.rawpixel.com/image/3305782
-Source: https://www.rawpixel.com/image/3336825
+boat-in-a-lake-towards-mountain.webp - https://www.rawpixel.com/image/3305782
+smart-watch-showing-weather.webp - https://www.rawpixel.com/image/3336825
+
 License: CC0 1.0 Universal (CC0 1.0) 
 License URL: https://creativecommons.org/publicdomain/zero/1.0/
