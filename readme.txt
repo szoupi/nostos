@@ -4,7 +4,7 @@ Contributors: szoupidotcom
 Requires at least: 6.4
 Tested up to: 6.6
 Requires PHP: 7.0
-Stable tag: 1.0.6
+Stable tag: 1.1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -14,6 +14,9 @@ Introducing Nostos, a minimalist lightweight theme designed for those who value 
 
 
 == Changelog ==
+
+= 1.1.0 =
+* Released: September 17, 2024
 
 = 1.0.1 =
 * Initial release
@@ -37,3 +40,10 @@ GNU General Public License for more details.
 
 Nostos is based on nostos (https://demos.szoupi.com/wp/nostos/), (C) szoupi, [GPLv2 or later](http://www.gnu.org/licenses/gpl-2.0.html)
 
+=== Images ===
+
+Images for theme screenshot, Credit Neom and Ales Nesetril
+Source: neom-eOWabmCNEdg-unsplash.jpg - https://unsplash.com/photos/a-person-standing-on-top-of-a-large-rock-eOWabmCNEdg
+Source: ales-nesetril-Im7lZjxeLhg-unsplash.jpg - https://unsplash.com/photos/gray-and-black-laptop-computer-on-surface-Im7lZjxeLhg
+License: CC0 1.0 Universal (CC0 1.0) https://creativecommons.org/publicdomain/zero/1.0/
+License URL: https://unsplash.com/license
