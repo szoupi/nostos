@@ -16,7 +16,7 @@ Introducing Nostos, a minimalist lightweight theme designed for those who value 
 == Changelog ==
 
 = 1.1.1 =
-* screenshot changed
+* Screenshot changed
 
 = 1.1.0 =
 * Released: September 17, 2024
