@@ -1,17 +1,15 @@
 <?php
 /**
- * Title: Header with search and Call-To-Action button
- * Slug: nostos/header-search-button
- * Description: Header with logo, site title, navigation, search button and Call-To-Action button. 
+ * Title: Header with search button and CTA
+ * Description: Header with logo, site title, navigation, search button and call to action button. 
  * Categories: header
- * Keywords: header, search, call-to-action, CTA
+ * Keywords: header, search, call-to-action
  * Block Types: core/template-part/header
  *
  * @since Nostos 1.1.3
  */
 
 ?>
-
 <!-- wp:group {"align":"full","layout":{"type":"constrained"}} -->
 <div class="wp-block-group alignfull"><!-- wp:group {"tagName":"header","metadata":{"categories":["woo-commerce"],"patternName":"woocommerce-blocks/header-essential"},"align":"full","className":"tt-nostos-header","style":{"spacing":{"padding":{"top":"40px","bottom":"40px","left":"40px","right":"40px"},"margin":{"bottom":"var:preset|spacing|80"}}},"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"space-between"}} -->
 <header class="wp-block-group alignfull tt-nostos-header" style="margin-bottom:var(--wp--preset--spacing--80);padding-top:40px;padding-right:40px;padding-bottom:40px;padding-left:40px"><!-- wp:group {"style":{"position":{"type":""}},"layout":{"type":"flex","flexWrap":"nowrap"}} -->

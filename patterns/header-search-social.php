@@ -1,10 +1,10 @@
 <?php
 /**
  * Title: Header with search button and social icons
- * Slug: nostos/header2-search-social
+ * Slug: nostos/header-search-social
  * Description: Header with logo, site title, navigation, with search button and social icons. 
  * Categories: header
- * Keywords: header, search, call-to-action
+ * Keywords: header, search
  * Block Types: core/template-part/header
  *
  * @since Nostos 1.1.3

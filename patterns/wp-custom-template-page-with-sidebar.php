@@ -1,6 +1,6 @@
 <?php
 /**
- * Title: wp-custom-template-page-with-sidebar
+ * Title: Page with sidebar
  * Slug: nostos/wp-custom-template-page-with-sidebar
  * Categories: hidden
  * Inserter: no
