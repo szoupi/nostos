@@ -1,6 +1,7 @@
 <?php
 /**
  * Title: Header with search button and CTA
+ * Slug: nostos/header-search-button
  * Description: Header with logo, site title, navigation, search button and call to action button. 
  * Categories: header
  * Keywords: header, search, call-to-action
