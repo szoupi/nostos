@@ -1,12 +1,15 @@
 <?php
 /**
- * Title: Call to action CTA,  light background,  with image at the side
- * Slug: nostos/cta-two-column-with-image
- * Categories: banner, call-to-action, featured
- * Description: Section with title CTA, paragraph, list, CTA button, and image at the side.
+ * Title: Call to action, with image on the right
+ * Slug: nostos/cta-image-right
+ * Description: Call to action with light background and image on the right column.
+ * Categories: banner, call-to-action
+ * Keywords: cta, call to action, image
+ * Viewport width: 1400
+ * 
+ * @since Nostos 1.1.3
  */
 ?>
-
 
 <!-- wp:group {"style":{"spacing":{"padding":{"right":"var:preset|spacing|80","left":"var:preset|spacing|80","top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"}},"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"backgroundColor":"base","textColor":"contrast","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-contrast-color has-base-background-color has-text-color has-background has-link-color" style="padding-top:var(--wp--preset--spacing--80);padding-right:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80);padding-left:var(--wp--preset--spacing--80)"><!-- wp:columns {"verticalAlignment":null,"align":"wide"} -->
