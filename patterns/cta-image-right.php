@@ -57,7 +57,7 @@
 
 <!-- wp:column -->
 <div class="wp-block-column"><!-- wp:image {"id":106,"aspectRatio":"3/4","scale":"cover","sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="http://localhost/wpdev2/wp-content/uploads/2024/08/horses-on-two-legs-facing-each-other-1024x768.jpg" alt="" class="wp-image-106" style="aspect-ratio:3/4;object-fit:cover"/></figure>
+<figure class="wp-block-image size-large"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/boat-in-a-lake-towards-mountain.webp" alt="<?php esc_attr_e( 'boat in a lake heading to mountains', 'nostos' ); ?>"  class="wp-image-106" style="aspect-ratio:3/4;object-fit:cover"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns --></div>

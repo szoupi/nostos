@@ -1,2 +1,5 @@
 Images for patterns
-<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/art-gallery.webp
+
+src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/boat-in-a-lake-towards-mountain.webp" alt="<?php esc_attr_e( 'boat in a lake heading to mountains', 'nostos' ); ?>"
+
+"url":"<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/boat-in-a-lake-towards-mountain.webp"

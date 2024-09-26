@@ -41,6 +41,6 @@
 <!-- /wp:spacer -->
 
 <!-- wp:image {"id":106,"sizeSlug":"large","linkDestination":"none","className":"is-style-default","style":{"layout":{"selfStretch":"fit","flexSize":null}}} -->
-<figure class="wp-block-image size-large is-style-default"><img src="http://localhost/wpdev2/wp-content/uploads/2024/08/horses-on-two-legs-facing-each-other-1024x768.jpg" alt="" class="wp-image-106"/></figure>
+<figure class="wp-block-image size-large is-style-default"><img src="<?php echo esc_url( get_template_directory_uri() ); ?>/assets/images/boat-in-a-lake-towards-mountain.webp" alt="<?php esc_attr_e( 'boat in a lake heading to mountains', 'nostos' ); ?>"  class="wp-image-106"/></figure>
 <!-- /wp:image --></div>
 <!-- /wp:group -->
