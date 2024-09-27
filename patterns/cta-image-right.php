@@ -16,11 +16,11 @@
 <div class="wp-block-columns alignwide"><!-- wp:column {"verticalAlignment":"stretch"} -->
 <div class="wp-block-column is-vertically-aligned-stretch"><!-- wp:group {"style":{"dimensions":{"minHeight":"675px"}},"layout":{"type":"flex","orientation":"vertical","verticalAlignment":"top","justifyContent":"left"}} -->
 <div class="wp-block-group" style="min-height:675px"><!-- wp:heading -->
-<h2 class="wp-block-heading">Get Inspired, Stay Informed</h2>
+<h2 class="wp-block-heading"><?php echo esc_html_x( 'Get Inspired, Stay Informed.', 'Sample description for patterns', 'nostos' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"style":{"layout":{"flexSize":"100px","selfStretch":"fixed"},"typography":{"fontStyle":"normal","fontWeight":"300"}},"fontSize":"med"} -->
-<p class="has-med-font-size" style="font-style:normal;font-weight:300">Keep up with the latest in personal development, tech, and lifestyle trends</p>
+<p class="has-med-font-size" style="font-style:normal;font-weight:300"><?php echo esc_html_x( 'Keep up with the latest in personal development, tech, and lifestyle trends.', 'Sample description for patterns', 'nostos' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:list {"style":{"layout":{"selfStretch":"fit","flexSize":null},"typography":{"fontStyle":"normal","fontWeight":"300"}}} -->

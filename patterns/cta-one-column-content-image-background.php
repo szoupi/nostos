@@ -15,11 +15,11 @@
 <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--80);padding-right:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80);padding-left:var(--wp--preset--spacing--80)"><!-- wp:group {"style":{"spacing":{"blockGap":"0"},"dimensions":{"minHeight":"50vw"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="min-height:50vw"><!-- wp:group {"style":{"position":{"type":""}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"center","verticalAlignment":"top"}} -->
 <div class="wp-block-group"><!-- wp:heading {"fontSize":"xxl"} -->
-<h2 class="wp-block-heading has-xxl-font-size">Join our community!</h2>
+<h2 class="wp-block-heading has-xxl-font-size"><?php echo esc_html_x( 'Join our community!.', 'Sample description for patterns', 'nostos' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","fontSize":"med"} -->
-<p class="has-text-align-center has-med-font-size">Subscribe to the newsletter and stay connected with our community</p>
+<p class="has-text-align-center has-med-font-size"><?php echo esc_html_x( 'Subscribe to the newsletter and stay connected with our community!.', 'Sample description for patterns', 'nostos' ); ?></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"0px","style":{"layout":{"selfStretch":"fixed","flexSize":"40px"}}} -->
@@ -28,7 +28,7 @@
 
 <!-- wp:buttons {"layout":{"type":"flex","justifyContent":"space-between"}} -->
 <div class="wp-block-buttons"><!-- wp:button {"style":{"spacing":{"padding":{"left":"var:preset|spacing|70","right":"var:preset|spacing|70"}}}} -->
-<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" style="padding-right:var(--wp--preset--spacing--70);padding-left:var(--wp--preset--spacing--70)">Sign up</a></div>
+<div class="wp-block-button"><a class="wp-block-button__link wp-element-button" style="padding-right:var(--wp--preset--spacing--70);padding-left:var(--wp--preset--spacing--70)"><?php echo esc_html_x( 'Sign up', 'Sample description for patterns', 'nostos' ); ?></a></div>
 <!-- /wp:button --></div>
 <!-- /wp:buttons --></div>
 <!-- /wp:group --></div>

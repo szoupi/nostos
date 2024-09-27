@@ -14,11 +14,12 @@
 <!-- wp:group {"style":{"elements":{"link":{"color":{"text":"var:preset|color|contrast"}}}},"backgroundColor":"base","textColor":"contrast","layout":{"type":"constrained"}} -->
 <div class="wp-block-group has-contrast-color has-base-background-color has-text-color has-background has-link-color"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|80","bottom":"var:preset|spacing|80"}}},"layout":{"type":"flex","orientation":"vertical","verticalAlignment":"center","justifyContent":"center"}} -->
 <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--80);padding-bottom:var(--wp--preset--spacing--80)"><!-- wp:heading {"textAlign":"center","style":{"layout":{"selfStretch":"fit","flexSize":null}},"fontSize":"xxl"} -->
-<h2 class="wp-block-heading has-text-align-center has-xxl-font-size">Get Inspired, Stay Informed</h2>
+<h2 class="wp-block-heading has-text-align-center has-xxl-font-size"><?php echo esc_html_x( 'Get Inspired, Stay Informed.', 'Sample description for patterns', 'nostos' ); ?></h2>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph {"align":"center","style":{"layout":{"selfStretch":"fit","flexSize":""},"typography":{"fontStyle":"normal","fontWeight":"300"}},"fontSize":"med"} -->
-<p class="has-text-align-center has-med-font-size" style="font-style:normal;font-weight:300">Keep up with the latest in personal development, tech, and lifestyle trends</p>
+<p class="has-text-align-center has-med-font-size" style="font-style:normal;font-weight:300"><?php echo esc_html_x( 'Keep up with the latest in personal development, tech, and lifestyle trends.', 'Sample description for patterns', 'nostos' ); ?>
+</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:spacer {"height":"39px","style":{"layout":{"flexSize":"39px","selfStretch":"fixed"}}} -->
