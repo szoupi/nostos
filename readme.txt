@@ -4,7 +4,7 @@ Contributors: szoupidotcom
 Requires at least: 6.4
 Tested up to: 6.6
 Requires PHP: 7.0
-Stable tag: 1.1.3
+Stable tag: 1.1.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -14,6 +14,10 @@ Introducing Nostos, a minimalist lightweight theme designed for those who value 
 
 
 == Changelog ==
+
+
+= 1.1.4 =
+* Tag accessibility-ready removed
 
 = 1.1.3 =
 * Patterns added
