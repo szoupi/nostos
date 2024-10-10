@@ -10,11 +10,12 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
 
-Introducing Nostos, a minimalist lightweight theme designed for those who value simplicity and clarity. With a focus on clean lines and a back-to-basics approach, this theme strips away unnecessary distractions to let your content shine. The theme uses system fonts, ensuring fast load times and smooth performance. The bold, distinctive typography is carefully crafted to make a statement, enhancing readability and giving your website a modern, sophisticated look. Perfect for bloggers, creatives, and professionals who want a fast, clutter-free, user-friendly design, nostos delivers a seamless experience that’s both visually striking and effortlessly functional.
-
+Introducing Nostos, a minimalist lightweight theme designed for those who value simplicity and clarity. With a focus on clean lines and a back-to-basics approach, this theme strips away unnecessary distractions to let your content shine. The theme uses system fonts, ensuring fast load times and smooth performance. The bold, distinctive typography is carefully crafted to make a statement, enhancing readability and giving your website a modern, sophisticated look. Perfect for bloggers, creatives, and professionals who want a fast, clutter-free, user-friendly design, nostos delivers a seamless experience that’s both visually striking and effortlessly functional. Demo https://demos.szoupi.com/wp/nostos/
 
 == Changelog ==
 
+= 1.1.5 =
+* Change Theme URI
 
 = 1.1.4 =
 * Tag accessibility-ready removed
