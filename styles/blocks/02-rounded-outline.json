@@ -1,0 +1,36 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/theme.json",
+	"version": 3,
+	"title": "Rounded outline",
+	"slug": "rounded-outline",
+	"blockTypes": [ "core/button" ],
+	"styles": {
+		"border": {
+			"radius": "0.5rem",
+			"bottom": {
+				"color": "currentColor",
+				"style": "solid",
+				"width": "2px"
+			},
+			"left": {
+				"color": "currentColor",
+				"style": "solid",
+				"width": "2px"
+			},
+			"right": {
+				"color": "currentColor",
+				"style": "solid",
+				"width": "2px"
+			},
+			"top": {
+				"color": "currentColor",
+				"style": "solid",
+				"width": "2px"
+			}			
+		},
+		"color": {
+			"background": "var(--wp--preset--color--base)",
+			"text": "var(--wp--preset--color--accent)"
+		}		
+	}
+}
